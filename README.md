@@ -1,6 +1,8 @@
 # UC Berkeley CS285 Deep Reinforcement Learning  Fall 2022
-My Solutions of Assignments for [Berkeley CS 285: Deep Reinforcement Learning, Decision Making, and Control](http://rail.eecs.berkeley.edu/deeprlcourse/).
+Reference Solutions of Assignments for [Berkeley CS 285: Deep Reinforcement Learning, Decision Making, and Control](http://rail.eecs.berkeley.edu/deeprlcourse/).
 
+
+IGNORE THE DISCLAIMER THIS IS A JUST A REFERENCE
 Disclaimer: My solutions did pass all the Gradescope tests but they may still contain errors. Also, don't copy code directly and the solutions here are meant to help you if you get trapped.
 
 ## Getting Started
